@@ -11,5 +11,5 @@ flask
 
 
 # How to run:
-
-start PlacementPredictor.html
+start flask server by running flask.py
+then run PlacementPredictor.html
