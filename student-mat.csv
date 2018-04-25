@@ -1,0 +1,100 @@
+name,thenthScore,twelthScore,firstSemScore,secondSemScore,thirdSemScore,fourthSemScore,fifthSemScore,attendance,numberOfCertifications,favouriteLanguage,workingField,placed
+aastha gyanee,9.9,8.3,8.8,7.2,8.8,8,7.1,6.1,4,python,Web Development,yes
+praveen sharma,8.1,7.9,7.8,8.7,7.4,7,7.8,8.2,5,java,Web Development,yes
+kishan tiwari,9.5,9,7.8,7,9,8,8.2,7.4,4,anuglarjs,Web Development,yes
+radheshyam shankar,9.9,8.9,7,8.3,7.7,9,9,8.3,3,nodejs,Web Development,yes
+hariom pawar,9.1,8.1,9,7.4,7.1,8.3,8,8.8,4,sql,Web Development,yes
+karishma jawal,8.8,8.7,9,7.4,7.5,7.2,7.3,6.9,4,python,Machine Learning,yes
+harshali jinwal,8.6,7.9,7.4,8.2,7.9,8.8,8.9,8.6,4,angular,Web Development,yes
+shubham sharma,9.3,8.7,9,7.6,7.5,7.9,7.3,6.2,2,java,Android,yes
+ketan zamre,8.7,8.5,7.4,8.5,7.6,8.2,8,7.7,4,nodejs,Web Development,yes
+vanashree barve,9.5,8.9,8.6,8.6,7.9,7.6,8.8,8.2,3,php,Web Development,yes
+aastha paliwal,10,8.4,8.6,7.6,8.9,8.1,8.9,6,2,php,Web Development,yes
+shubham manohra,8.5,7.5,8.9,8.8,9,7.3,8.5,6.8,2,nodejs,Web Development,yes
+ashish jain,8.3,8.8,8.4,7.7,7.1,7.2,8.8,8.7,2,angularjs,Web Development,yes
+kriti yadav,8.7,8.4,8,7.1,9,7.5,8.3,6.6,4,swift,IOS,yes
+anwesha sahoo,8.9,7.7,7.4,7.9,8.4,8.5,8,7,4,swift,IOS,yes
+abhinav chandel,8.7,7.2,8.7,8.8,7.6,8.6,7,8.7,2,swift,IOS,yes
+aayush sharma,8.9,8.9,8,9,8,7.3,8.1,6.6,4,java,Android,yes
+paridhi kochar,10,8.5,7.5,8.6,8.6,7.4,7.9,7.1,2,kotlin,Android,yes
+palak sharma,9.7,8.3,7.1,7,8.7,8.7,7.9,8.6,3,python,Machine Learning,yes
+kritika mishra,9.2,8.1,7.1,8.8,7.6,7.1,8.1,6.2,5,java,Web Development,yes
+vaishnavi shinde,9.5,7.2,7.2,7.3,7.6,7.5,7.4,8.3,3,java,Web Development,yes
+srishti bhaskar,8.8,7.9,8.5,8.2,8.9,7.6,7.5,6.5,4,java,Web Development,yes
+divyansh bhaskar,9.4,7.8,7.4,8.2,8.5,8.4,7.4,8.5,2,python,Machine Learning,yes
+shivansh ranavat,8,8.3,7.7,7.2,7,7.9,8.9,8.4,2,java,Web Development,yes
+yashasvi pathak,9.8,8.9,8,8,8.5,7.8,7.1,6.6,4,python,Machine Learning,yes
+shubham meenal,9.6,8.2,7.5,8.3,9,8.6,7.4,6.1,2,java,Web Development,yes
+meena sharma,8.3,8.5,8.1,7.2,8.1,8.8,8.7,6.4,5,java,Web Development,yes
+usha sharma,9.4,8.8,8.7,8.1,8.4,8.1,8.9,7.7,4,python,Machine Learning,yes
+tanika mishra,9.1,7.4,8.8,8.1,8.4,8.4,8,8.4,2,python,Machine Learning,yes
+geetika sharma,8.6,8.5,7.5,8.1,8.7,8.4,7.6,7.7,5,angularjs,Web Development,yes
+shuchi trivedi,9.6,7.7,7.5,7.4,8.4,7.6,7.7,7.9,3,nodejs,Web Development,yes
+shubhi trivedi,8.4,8.9,8.3,7,8.5,7.6,7.1,7.2,2,php,Web Development,yes
+aanchal mishra,8.3,7.8,7.1,8.1,8.1,8.7,7.2,7.3,4,java,Android,yes
+shubham soni,9.9,7,7.3,8,8,7.1,8.3,6.3,2,java,Android,yes
+shivani ravat,8.4,9,7.2,8.2,8.1,7.1,7.2,6.1,4,python,Machine Learning,yes
+keetika mishra,8,7,8.7,8.4,8.4,7.2,8.1,8.8,5,python,Machine Learning,yes
+karan shekar,9.4,8.6,7.2,8.8,7.6,7,7.4,8.9,4,java,Android,yes
+prashant bairagi,8.2,7.3,7.9,9,8.7,7.8,8.3,7.2,5,java,Android,yes
+akshay raval,8.3,7.8,9,7.3,7.5,8.7,8.1,7.5,4,python,Machine Learning,yes
+rishabh gupta,8,7.3,7.2,7.8,7.3,8.8,8.2,8.9,4,angularjs,Web Development,yes
+anuroop gupta,9.4,7.9,8.4,8.1,8.4,8.9,8.8,6.3,5,sql,Web Development,yes
+shraddha sharma,9.7,8.9,7,8.5,7.3,8.8,7.6,8.4,4,sql,Web Development,yes
+manaswi sharma,9.9,8.4,8.3,8.3,8.6,8.2,8.9,6.5,4,php,Web Development,yes
+riyanshi gupta,8.8,7.8,8.6,7.7,7.6,7.6,7,7.4,2,swift,IOS,yes
+vivek singh,8.6,8.8,7.4,8.9,8.7,7.6,8.4,7,4,java,Web Development,yes
+preet radhe,8.3,7.7,7.6,7.3,7.6,7.5,8,6.7,4,python,Web Development,yes
+shubham mishra,8.5,9,9,8.3,8.7,7.6,8.7,8.3,2,sql,Web Development,yes
+prateek bhaskar,8.6,7.7,8.7,8.4,8.5,8.8,8.9,7.9,5,java,Web Development,yes
+pawal garewal,9.4,7.6,8.7,8.1,7.2,8.8,7.2,8.7,2,python,Web Development,yes
+Ruth Pascoe,6,5.6,6.8,5.9,6.8,5.2,5.6,5.3,1,HTML,Tech Support,no
+Aditi Musunur,6.8,4.8,5.6,6.3,5.6,6.7,4.8,4.9,1,CSS,Tech Support,no
+Advitiya Sujeet,5.6,5.9,4.8,8.4,4.8,4.9,5.9,4,1,C,Tech Support,no
+Debasis Sundhararajan,4.8,6.7,5.9,7.1,5.9,4.2,6.7,5.1,0,C++,Tech Support,no
+Puja Gupta,5.9,4.2,6.3,8,6.3,5.3,4.2,4.8,0,HTML,Administration,no
+Vijai Sritharan,6.7,4.8,4.2,7.9,4.2,4,4.8,4.8,0,CSS,HR,no
+Jitendra Choudhary,4.2,7,5.6,8,5.6,5.1,7,4.2,0,C,Finance,no
+Naveen Tikaram,7,6.3,4.8,7.2,4.8,5.9,6.3,5.6,0,HTML,HR,no
+SOURABH KAKANI,5.9,6.8,5.2,6.8,5.2,6,6.8,5.6,0,CSS,HR,no
+SUNIL KUMAR MEENA,6.3,5.6,6.7,5.2,6.7,4.8,5.6,4.8,0,HTML,HR,no
+Diana Penty,7.8,4.8,4.9,4.2,4.9,4.2,4.8,5.9,0,CSS,HR,no
+ABHISHEK ANAND,7.1,5.9,4.2,7,4.2,5.2,5.9,4.9,0,HTML,HR,no
+ABHISHEK TIWARI,7.8,6.3,5.3,5.9,5.3,4.8,6.3,4,1,CSS,Buisness Accounting,no
+AMAN GUPTA,8.1,4.2,4,4.2,4,4.8,4.2,5.1,1,C,Networking ,no
+AMIT SAXENA,9,5.6,5.1,5.9,5.3,4.8,5.6,4.8,1,C++,UI Designer,no
+ANKITA ANAND,8.1,4.8,5.9,5.9,4.8,7,4.2,4.8,1,HTML,Hardware Engineer,no
+ANURAG DASH,6.8,5.2,6,6.7,5.9,5.9,5.3,4.2,0,HTML,Hardware Engineer,no
+Aahna SRIVASTAVA,5.2,6.7,4.8,4.2,6.3,6.3,4,4.2,0,C,Networking ,no
+ATUL KUMAR,4.2,4.9,4.2,4.8,4.2,8.6,5.1,4,1,C++,Networking ,no
+Sonal Chauhan,7,4.2,5.2,7,5.6,6,5.9,4,0,C,UI Designer,no
+Aayushi Kumar,5.9,5.3,4.8,6.3,4.8,6.8,6,4.8,0,C++,UI Designer,no
+DIGRAJ SINGH CHAHAL,6.3,4,4.8,6.8,5.2,5.6,4.8,4.2,1,C,UI Designer,no
+GOURAV GARG,7.9,5.1,4.9,5.6,6.7,4.8,4.2,4.9,1,HTML,UI Designer,no
+Reigna Cassandra,6,5.9,4.2,4.8,4.9,6.3,5.2,4.2,1,CSS,UI Designer,no
+KUMAR SHUBHAM,6.8,6,4,5.9,4.2,7.4,4.8,5.3,1,C,UI Designer,no
+MADHAV GOSWAMI,5.6,4.8,6.6,4.8,6.7,7.7,4.9,7,1,C++,UI Designer,no
+Nisha Satpute,4.8,4.2,6.8,5.9,4.2,6.3,7,6.3,2,CSS,UI Designer,no
+MUDIT DHAKAR,6.3,5.2,6.7,6.7,4.8,4.2,5.9,6.8,1,C,System Admin,no
+NAVIN KUMAR,7,4.8,4.8,4.2,7,5.6,6.3,5.6,0,C++,System Admin,no
+Nikita Misra,8.5,4.9,4.9,7,6.3,4.8,7,4.8,1,CSS,Networking ,no
+Aashi Jain,8.4,4.2,4.2,5.9,6.8,5.2,8.1,5.9,0,HTML,Hardware Engineer,no
+PRATAP BHANU SOLANKI,7.5,4,4,6.3,5.6,6.7,5.9,4.2,1,C,System Admin,no
+Haripriya MISHRA,8.3,6.6,6.7,8.4,4.8,4.9,4.9,5.9,0,C++,Hardware Engineer,no
+ROHIT KUMAR SINHA,7.7,6.8,4.9,8.3,5.9,4.2,4.2,4.8,0,C++,Hardware Engineer,no
+SAMBHAV JAIN,6.8,6.7,4.2,4.2,4,4.8,5.3,4.2,0,CSS,System Admin,no
+Surbhi CHOKHRA,5.2,4.8,5.3,4,5.2,4.8,5.3,4.4,0,HTML,Hardware Engineer,no
+Divya Chopra,6.7,4.9,4,5.3,6.7,4.9,4,4,0,C,Hardware Engineer,no
+SHUBHAM GUPTA,4.8,4.2,5.1,4.9,4.8,4.2,5.1,4.2,1,CSS,HR,no
+SOUMITRA NARAIN PATHAK,5.9,4,5.9,4,5.9,4,5.9,4.9,0,HTML,Buisness Accounting,no
+SUSHANT SINGH,4.9,6.7,6,5.1,4.9,6.7,6,4,1,CSS,Buisness Accounting,no
+Nayantara Sharma,4.2,4.9,4.8,4.8,4.2,4.9,4.8,5.1,0,C,Buisness Accounting,no
+VIJAYPAL SINGH NEGI,5.3,4.2,4.2,4.8,5.3,4.2,4.2,4.8,1,C,Buisness Accounting,no
+VISHVAS MEENA,6.7,5.3,4.4,4.2,6.7,5.3,4.4,4.8,1,HTML,Buisness Accounting,no
+Samantha Singh,4,4,5.9,4,4,4,5.9,4.2,0,CSS,Buisness Accounting,no
+SHAMBHU KUMAR,6.6,5.1,4.9,5.3,6.6,5.1,4.9,4.2,1,C++,Buisness Accounting,no
+AASHISH AGARWAL,5.1,5.9,4.2,4.9,5.1,5.9,4.2,4.4,0,CSS,Buisness Accounting,no
+Charu Asopa,6.7,6,5.3,4,6.7,6,5.3,4.2,0,HTML,Buisness Accounting,no
+AEKAANSH VERMA,7.5,4.8,6.7,5.1,7.8,4.8,6.7,5.1,0,C,System Admin,no
+AKASH AGRAWAL,7.5,4.2,4,4.8,7.1,4.2,4,5.9,0,CSS,HR,no
+AMAN JAISWAL,8.3,4.4,7,4.8,8.4,4.4,7.6,6,0,C++,HR,no
