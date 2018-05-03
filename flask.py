@@ -13,7 +13,7 @@ def index():
         del data[0:11]
     
     
-    df = pd.read_csv('/home/nick/Desktop/PlacementPredictionSystem/student-mat.csv')
+    df = pd.read_csv('student-mat.csv')
     df = df.drop('name', 1)
     le = LabelEncoder()
         
